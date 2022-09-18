@@ -7,7 +7,7 @@ A Django and Javascript project.
 Features:
 Users can post a own message or read other posts and follow other uses. Pagination for viewability as well as like and unlike posts.
 
-[![Watch the video]https://i.imgur.com/00PIPnn.png)](https://www.youtube.com/watch?v=SE4KCwvKc4o)
+[![Watch the video](https://i.imgur.com/00PIPnn.png)](https://www.youtube.com/watch?v=SE4KCwvKc4o)
 
 This was the fourth project in the in the Harvard cs50web course.
 
